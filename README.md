@@ -1,4 +1,4 @@
-# CloudMusic-LevelUp
+# CloudMusic-LevelUp（已 star）
 
 > 网易云音乐刷歌升级脚本
 >
